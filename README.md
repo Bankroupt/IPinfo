@@ -18,7 +18,7 @@ Es una herramienta de terminal para una inspección  básica de la red. Sus func
 2. Marcar ejecutable (opcional):
 
 ```bash
-git clone 
+git clone https://github.com/Bankroupt/IPinfo.git
 chmod +x IPinfo.py
 ```
 
