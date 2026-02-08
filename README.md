@@ -14,15 +14,14 @@ Es una herramienta de terminal para una inspección  básica de la red. Sus func
 	- json, entre otros
 ## Instalación
 
-1. Guardar el script en un archivo, p. ej. ip_tool.py
-2. Marcar ejecutable (opcional):
+1. Marcar ejecutable (opcional):
 
 ```bash
 git clone https://github.com/Bankroupt/IPinfo.git
 chmod +x IPinfo.py
 ```
 
-3. Ejecutar con Python:
+2. Ejecutar con Python:
 
 ```bash
 python3 IPinfo.py
